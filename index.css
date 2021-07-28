@@ -33,3 +33,9 @@ html {
 		justify-content: center;
 
 }
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+		.myhoveredclass:hover, .myhoveredclass:active, .myhoveredclass:focus {
+		background-color:green;
+		}
+}
+
