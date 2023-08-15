@@ -1,0 +1,13 @@
+- Estudiar una disciplina nueva no necesariamente es fácil, pero siempre estamos aprendiendo cosas nuevas y nuestro cerebro a lo largo de toda nuestra vida está adaptado para ello. Sin embargo, requiere procesos de aprendizaje. Es como andar en bicicleta, requiere deseo y práctica. Por tanto, también requiere cierta disciplina en las ciencias sociales y en las humanidades. Eso implica leer y seguir leyendo. Pero también requiere otras cosas. Desarrollar competencias de análisis, es decir, aprender a reunir y ordenar información para proponer una explicación acerca de algún problema.
+- ## La lógica disciplinaria y la teoría
+- Las relaciones internacionales son un campo interdisciplinario, pero tienen un objeto, métodos y un conjunto de herramientas conceptuales y teóricas propias. Suponen 1. Describir y 2. Explicar (la simple descripción es insuficiente, hay que explicar "por qué"). Suponen reunir información (datos, no simples supuestos), ordenar y sistematizar datos y vincularlos con ciertos presupuestos teóricos. Necesitamos teoría para darle algún sentido a los datos, sin teoría solo tenemos datos y por lo tanto es difícil proponer una explicación plausible sobre lo que ocurre. Dicho de otra manera, se trata de unir datos y teoría, pero sobre la información que reunimos supone también un ejercicio de contrastación, crítica y verificación. Debemos aprender a diferenciar entre supuestos (creencias, preferencias políticas o ideológicas), datos e interpretaciones para producir juicios analíticos, es decir, responder a la pregunta de por qué pasa lo que pasa.
+- ## Preguntas y problemas centrales
+- **Actores**:¿Quién(es) hace(n) que?
+- **Intereses**: ¿Por qué? (búsqueda de mayor seguridad, competencia por espacio o recursos, percepciones de amenaza, preferencias ideológicas o religiosas, conflictos históricos, todas las anteriores)
+- **Procesos**: ¿Cómo? (guerra, negociación, alianzas, todas las anteriores) y ¿Cuándo? (los procesos tienen por definición dimensiones temporales, desde cuándo hasta cuándo) y pueden implicar procesos de cambios dentro del mismo "sistema" o cambio de sistema.
+- **El concepto de sistema** es fundamental: lo que debemos explicar son conjuntos de interacciones entre actores (Ej., cooperación o conflicto), y siempre nos remiten a la pregunta ¿Por qué?
+- Utilizamos taxonomías (tipos) de sistemas a partir de la articulación de tres variables:
+- 1. n° de Actores
+	-
+- 2. Estratificación (quién es potencia y quién no)
+- 3. Polaridad (ideológica): acuerdos entre actores sobre normas y valores.
