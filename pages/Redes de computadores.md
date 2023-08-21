@@ -1,4 +1,44 @@
 ## Linkografía
 - Beej's Guide to Network Programming: https://beej.us/guide/bgnet/html/split/
 - [[Datos y Comunicación entre Computadores]]
+- ## Internet Protocol  (IP)
+	- Direcciones de origen y destino con un único formato
+	- Hacer llegar un dato de un punto A a un punto B. Pasando por alguna(s) red(es).
+	-
+	-
+	- ### IPV6
+		- 128 bits
+		- encabezado más grande
+		- Encabezado: Información que siempre se usa
+		- Final: Información opcional
+-
+	-
+- ## Capas
+- Jerarquía directa: Cada uno usa directamente los elementos proporcionados por la capa inferior.
+- Hotswapping
+- ### Señalización
+	- IPv4 vs IPv6
+		- Todo funciona con ipv4. Así como es posible utilizar IPv6 sin modificar en detalle el sistema
+	- Mecanismo para informar anomalías
+		- Los datos no fueron recibidos en el destino por X motivo
+		- El destino no es correcto
+- **ICMP**: Internet Control Message Protocol
+	- Dentro del protocolo IP
+	- Conceptualmente paralelo al protocolo IP
+- **IGMP:** Direcciones multicast
+	- Comunicación de datos en grupo
+	- Paquetes direccionados a múltiples destinos simultáneamente
+- **OSPF**: Direccionamiento de rutas
+	- Cuál es la mejor ruta para llegar de A a B?
+	- Las redes cambian constantemente
+	- Las redes tienen tráfico variable
+- **RSVP**: QoS
+	- Preservar ciertos tipos de recursos para cierto servicio que lo requiera
+- **TCP**: Conexión A a B
+	- Corriente de datos
+	- No paquetes repetidos
+	- Seguridad de que los datos son recibidos
+	- Rastreo de paquetes
+- **UDP**:
+	- Mensajes
 -

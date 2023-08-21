@@ -1,0 +1,159 @@
+## La belleza de las fotografías
+	- Capturar momentos especiales.
+		- Preservar experiencias
+		- Capturar emociones y ,momentos
+		- Invocar sentimientos
+	- Contexto y organización
+		- Una nueva belleza al describir y representar las fotos.
+		- La belleza de la colección es alimentada por la belleza de las imágenes sueltas.
+		- La colección como más que la suma de sus partes
+	- Geografía y ubicación
+		- El texto explora la belleza de las colecciones de imágenes.
+		- Geografía: Asociar algo con un lugar o locación. Crear contexto y mejorar nuestro conocimiento acerca de como se relacionan las descripciones de los lugares con su ubicación
+	- Exploración y descubrimiento:
+		- Las fotos son "Datos hermosos", por lo que es menester explorar los datos.
+		- Encontrar:
+			- Patrones
+			- Tendencias
+			- Relaciones entre los datos
+		- Identificar anomalías y outliers
+	- Visualización de los datos
+		- Combinando técnicas de la cartografía con la visualización de datos, la exploración puede ser atractiva, resultando en la creación de útiles gráficos.
+- ## Treemaps 101: Estructura jerárquica
+	- Los treemaps son utilizados como una forma de representar la jerarquía de los datos.
+	- Cada nivel de jerarquía es representado como un rectángulo
+	- El rectangulo mayor representa la totalidad del dataset y es dividido en rectángulos más pequeños que representan las sub-categorías en los datos
+	- Anidación y subdivisión:
+		- Los rectángulos en el treemap están anidados para representar la relación jerárquica entre las categorías
+		- La división se realiza de forma que se mantiene la proporción del rectángulo padre. Asegurando que el área de cada rectángulo representa correctamente su valor
+	- Color y etiquetado:
+		- Los treemaps pueden utilizar códigos de color para codificar información adicional sobre los datos.
+			- e.g. Diferentes colores pueden representar distintas categorías
+			- Resaltar atributos específicos
+		- Las etiquetas pueden proveer información textual acerca de los datos que representan
+	- Exploración interactiva:
+		- Los treemaps pueden ser interactivos. Permitiendo a los usuarios moverse por los rectángulos e interactuando con las etiquetas o los colores. Esta interactividad es clave para poder analizar y visualizar datasets grandes y complejos con relaciones jerárquicas
+- ## Location displacement
+- ## Presentación
+	- Objetivos del dataset
+	- Detalles del proyecto
+	- TreeMaps **Importante**
+		- https://coin360.com
+		- Comparaciones de varios temas
+	- Ubicación geográfica
+	- Jerarquía de los lugares
+	- Aplicaciones
+		- Exploración de datos
+			- e.g. crypto
+		- Visualización de datos
+			- e.g. Geograph: Coverage Map
+	- Conclusión
+- Geograph
+	- Las fotografías son lindas.
+	- El dataset: Geograph
+	  id:: 64e2966a-fc06-4099-96c3-dec6b310f2f8
+		- Qué es?
+		- Cual es su propósito?
+			- Representaciones cartográficas de los datos
+			- Proporcionar fácil acceso a grandes masas de información
+		- Estadística: Escala del proyecto
+		- Libre, Cualquiera puede contribuir y utilizar
+			- Ciudadanos como sensores
+		- Cerca de ser completado (~98%)
+	- Exploración de datos:
+		- Qué información tenemos
+			- Las fotos como stream de datos
+			- Etiquetado de las fotos
+				- Descripción en texto del contenido de la foto
+					- Enfatizar en lo humano del dato
+				- Locación (coordenadas)
+	- Interpretación de los datos
+		- Treemaps
+			- Descripción general
+			  id:: 64e297ec-d1da-4e93-85cc-7907a5a388ed
+				- Jerarquía de los datos
+				- Múltiples dimensiones
+					- Color
+					- Tamaño
+					- Etiqueta
+				- Atributos
+					- 6 lugares:
+						- Playa
+						- Ciudad
+						- Pueblo
+						- ...
+					- Actividades
+						- golf
+						- senderismo
+						- ...
+					- Cualidades
+						- Calido, frio
+						- Lindo, feo
+			- Cosas a tener en cuenta
+				- ratio dato/locación
+					- La posición arbitraria de un nodo en el treemap no está relacionada con su ubicación real.
+			- Primer Treemap: (6-4)
+			  id:: 64e29a3d-fcfc-41ee-a6d1-87d26f2ef2d6
+				- Ordered Squarified
+				- Cómo se elaboró?
+					- Term Hierarchy
+						- Utilización de los atributos, actividades y cualidades para jerarquizar los datos
+						- **Advertencia**: Las distintas zonas geográficas usan distintos vocabularios/dialectos para comunicar sus ideas. Esto afecta al análisis de los datos
+				- Interpretación de los datos
+					- Cúmulos de datos
+					- La proporción entre los tópicos
+					- Un primer vistazo a la jerarquía de las etiquetas
+			- Segundo Treemap:
+			  id:: 64e29d07-9593-4032-a3ef-7c2be36294ff
+				- Lo mismo de antes pero de otra forma
+				- Slice and dice
+				- Por qué utilizar este layout?
+					- Qué ventajas supone?
+			- Tercer Treemap
+			  id:: 64e29b4b-e39d-4fe4-87ed-659970886c9e
+				- Qué se vio en los treemaps anteriores
+					- El problema de los treemaps anteriores (ausencia de relación con la locacion)
+				- De qué forma integramos la locación al treemap?
+					- Locación absoluta y locación relativa
+					- **Representación de la locación absoluta con color**
+						- Problemas (mapeo de colores)
+							- Tres componentes (RGB)
+						- CIELab modelo de color:
+							- Centro: Café
+							- Grado de similaridad entre dos colores como una indicación de la similaridad locacional de las fotos que representan.
+							- We therefore chose to use the CIELab color model, which provides a more perceptually consistent color gamut. By representing eastings and northings of each photo’s location with the a and b components of the color space, we were able to produce a geographic map of color where southwesterly locations were colored orange, southeasterly locations were green, northeasterly were blue, and northwesterly were purple. Central locations tended toward brown, and the degree of color similarity between
+							  two nodes provided an indication of locational similarity of the photos they represent. Figure 6-6 colors nodes in the ordered squarified treemap (compare with Figure 6-4) in
+							  this way.
+					- **Representación de la locación relativa**
+						- Problemas del treemap anterior:
+							- Requiere que el lector sepa de antemano que color significa que cosa.
+							- Falla en utilizar la posición de cada nodo en alguna forma provechosa
+						- Podemos mapear la ubicación geográfica a la posición en el TreeMap
+							- Las fotos que están hacia el norte arriba, las del este a la derecha, etc..
+							- CIELab coloring para enfatizar la posición absoluta (o algún otro aspecto como la importancia de los términos)
+					- TODO: Location displacement :(
+						-
+				- Análisis del Treemap
+				-
+			-
+			- Distintos tipos de Treemaps
+				- Slice and dice
+				- Squarified
+				- Ordered squarified
+				- ...
+			- ejemplo (coin360
+			-
+		-
+- El dataset (~1.5 min)
+- {{embed ((64e2966a-fc06-4099-96c3-dec6b310f2f8))}}
+- Treemaps grandes rasgos (~0.5 min)
+	- {{embed ((64e297ec-d1da-4e93-85cc-7907a5a388ed))}}
+	- Treemaps sin locación (~2 min)
+		- {{embed ((64e29a3d-fcfc-41ee-a6d1-87d26f2ef2d6))}}
+		- {{embed ((64e29d07-9593-4032-a3ef-7c2be36294ff))}}
+		-
+	- Treemaps con locación (~2 min)
+		- {{embed ((64e29b4b-e39d-4fe4-87ed-659970886c9e))}}
+		-
+- Conclusión (0.5 min)
+-
