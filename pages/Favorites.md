@@ -1,5 +1,5 @@
 - [[Historia de las relaciones internacionales]]
 - [[Redes de computadores]]
-- [[Modelamiento de software]]
+-
 - [[Ciencia y Tecnología]]
 -

@@ -1,7 +1,0 @@
-public:: true
-
-- [[Historia de las relaciones internacionales]]
-- [[Redes de computadores]]
-- [[Ciencia y Tecnología]]
-- [[Modelamiento de software]]
--
