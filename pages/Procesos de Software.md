@@ -5,6 +5,7 @@
 	- Entenderá las principales actividades del proceso de ingeniería de requerimientos de software, así como del desarrollo, las pruebas y la evolución del software.
 	- Además, comprenderá por qué deben organizarse los procesos para enfrentar los cambios en los requerimientos y el diseño de software,
 	- Entenderá cómo el Proceso Unificado Racional (Rational Unified Process, RUP) integra buenas prácticas de ingeniería de software para crear procesos de software adaptables.
+	-
 - ## Contenido:
 	- [[Modelos de Proceso de Software]]
 	- [[Iteración de procesos (Capítulo 17)]]
