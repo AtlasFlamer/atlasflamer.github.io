@@ -413,4 +413,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false, :builtin-pages? false, :excluded-pages? false, :orphan-pages? true}
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :publishing/all-pages-public? true}
