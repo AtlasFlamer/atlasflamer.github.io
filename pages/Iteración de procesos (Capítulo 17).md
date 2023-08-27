@@ -1,0 +1,6 @@
+- Los cambios son inevitables en todos los proyectos grandes. Los requerimientos cambian cuando el negocio responde a las presiones externas. Las prioridades de gestión cambian. Cuando se dispone de nuevas tecnologías, cambian los diseños y la implementación. Esto significa que el proceso de software no es un proceso único; más bien, **las actividades del proceso se repiten regularmente conforme el sistema se rehace en respuesta a peticiones de cambios**.
+- La esencia de los procesos iterativos es que la **especificación se desarrolla junto con el software**. Sin embargo, esto crea **conflictos con el modelo de obtención** de muchas organizaciones donde **la especificación completa del sistema es parte del contrato de desarrollo del mismo**. En el enfoque incremental, no existe una especificación completa del sistema hasta que el incremento final se especifica. **Esto requiere un nuevo tipo de contrato**, que a los clientes grandes como a las agencias del gobierno les puede ser difícil de incorporar.
+-
+- ## [[Entrega incremental]]
+- ## [[Desarrollo en espiral]]
+-

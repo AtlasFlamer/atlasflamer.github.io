@@ -1,0 +1,27 @@
+- Apoyo trabajo grupal 1
+- [[La empresa y su entorno]]
+-
+- ## Análisis del entorno
+- El propósito de este análisis consiste en elaborar una lista de oprtunidades que podrían beneficiar al proyecto solcial y amenazas que se deberían eludir.
+- Para el análisis se dividirá el ambiente en dos:
+	- [[Análisis del Macroentorno]]
+		- PEST
+	- [[Análisis del Microentorno]]
+	-
+- ## Estrategias
+- Estrategias genéricas
+	- Igual servicio, menor gasto
+	- Diferenciación
+	- Focalización
+- Estrategias complementarias
+	- Alianzas estratégicas
+	- Externalizar (outsourcing)
+	- Integración vertical
+	- Diversificación
+	- Aprender del mejor (benchmarking)
+- Estrategia de internet
+	- Página mall
+	- Redes sociales
+	- Página web
+	- Etc..
+-

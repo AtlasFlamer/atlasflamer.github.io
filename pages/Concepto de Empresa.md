@@ -1,0 +1,52 @@
+## Concepto de Empresa
+title:: Concepto de Empresa
+- Empresa -> Acción ardua
+- "Empresa es una actividad económica organizada, dirigida a la producción de bienes y servicios para el mercado." (Peter Drucker)
+- "Comunidad de personas que trabajan manual y/o intelectualmente, que tienen un objetivo común, la producción de un bien y/o servicio, que para dicha producción se requiere de capital, y que tanto el capital como los trabajadores corren un cierto riesgo y asumen una responsabilidad, lo que les da derecho a una retribución económica"
+- Arbitraje de bienes
+- Infraestructura
+- Logística
+- Normativa legal
+- Medio ambiente
+- Paradigmas
+- ## Elementos constitutivos de la empresa
+	- **Recursos Humanos**: La empresa es una comunidad de personas, en lo sucesivo recursos humanos. Nos refermios a todas las funciones que se desarrollan en su interior y que son desempeñadas por personas (manuales, intelectuales) (rutinarias, estratégicas) es decir todas las personas que trabajan en la empresa
+		- La diferencia fundamental de este recurso es que siente necesidades y que se impulsa en base a ellas (Maslow)
+	- **Recursos materiales**: Toman una serie de formas en la empresa: Maquinarias, instalaciones, terrenos, etc. Se denominan activo fijo y definen o delimitan el volumen de operaciones de una empresa (Activos fijos: Depreciación, inventarios)
+		- Otra forma
+			- Recursos/Fondos líquidos/Recursos de caja
+			- Cuentas por cobrar
+			- Materias primas
+			- Artículos terminados,
+			- etc.
+			- (Ver empresa servicio) (70% trabajo en servicios)
+	- **Activos circulantes** (capital de trabajo): Está relacionado por todas aquellas inversiones que son necesarias para que la empresa pueda operar. La empresa para producir,  necesita
+		- Mover sus activos (circulantes y ficos)
+		- Ponerlos en marcha
+		- Hacerlos trabajar
+		- Para  esto debe incurrir en gastos
+			- Sueldos
+			- Suministros
+			- Arriendos
+			- Etc..
+	- "La gente, no las fuerzas del mercado, crea y administra una empresa",
+	- "Las fuerzas económicas imponen a las posibilidades de la administración, crean oportunidades de acción gerencial, pero en si mismas no determinan que hace la empresa".
+	- La administración no solo tiene que hallar esas fuerzas sino debe crearlas
+	- En general, los recursos materiales limitan o definen el ámbito de operación de los recursos humanos dentro de la empresa, pero en ningún caso definen o deben definir el contenido de la acción concreta que desarrollará una persona dentro de ella
+- ## Funciones de una empresa
+	- Las funciones de una empresa se pueden clasificar en dos tipos diferentes
+		- **La función social** de las empresas es esencialmente la:
+			- Satisfacción de las reales necesidades de los consumidores. Una empresa existe o se crea porque hay una necesiad que a las personas individualmente o dentro de su grupo primario, no pueden satisfacer; por lo que debe recurrir a grupos secundarios, organizaciones que se especializan en la resolución de determinadas necesidades.
+			- Ser una fuente estable de trabajo y de satisfacción de necesidades para las personas que laboran dentro de ellas
+			- Medio Ambiente
+			- RSE
+		- **La función económica** refiere a la utilización que hace de recursos  escasos y de uso múltiple jerarquizables dentro de la sociedad. Esto obliga a las empresas a crear **valor**.
+		- Paradigmas
+		- Proceso de negocio
+		- Eficiencia
+		- Eficacia
+		- Geopolítica
+		- Sinergia
+		- Problema econcómico
+		-
+	-

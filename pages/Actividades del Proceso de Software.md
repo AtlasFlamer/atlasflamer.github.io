@@ -1,0 +1,5 @@
+- Existen muchos diferentes procesos de software, pero todos deben incluir cuatro actividades que son fundamentales para la ingeniería de software:
+	- [[Especificación del software]]: Se deben definir tanto la funcionalidad del software como las restricciones de su operación.
+	- [[Diseño e implementación del Software]]: Se debe desarrollar el software para cumplir con las especificaciones.
+	- [[Validación del Software]]: Se debe validar el software para asegurarse de que cumple con lo que el cliente quiere.
+	- [[Evolución del Software]]: El software tiene que evolucionar para satisfacer las necesidades cambiantes del cliente.

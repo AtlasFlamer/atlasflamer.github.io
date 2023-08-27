@@ -1,0 +1,58 @@
+## El modelo de las 5 fuerzas de Porter
+id:: 64ea4a2f-6dc5-43e6-b413-95a544e8e755
+	- Modelo estratégico que permite establecer el marco para definir el nivel competitivo dentro de una industria
+	- Nos permite identificar en un solo cuadro cuales son las variables o presiones competitivas que estaría recibiendo nuestro negocio actualmente o a la hora de operar
+	- Se considera en el modelo que la empresa debe tener  previamente alineada con su estrategia la visión, la misión y los valores claramente definidos. Esto permitirá a la empresa situarse en un contexto estratégico y no solo un contexto táctico.
+	- Es indispensable conocer a cabalidad el comportamiento (interacción) del conjunto de organizaciones para desarrollar estrategias exitosas
+	- El estado de las interacciones en un conjunto de organizaciones, es una combinación de cinco fuerzas y complementos en el logro de cumplir las promesas de valor.
+	- ### La rivalidad entre las organizaciones que compiten en el conjunto de organizaciones
+		- Por los común es la fuerza más poderosa de las cinco
+		- La intensidad de la rivalidad es función de la energía con la que emplean tácticas tales como lograr mayor eficiencia, añadir características llamativas a los servicios, mejorar los servicios al usuario, etc.
+		- El  éxito de la estrategia depende en parte, de las maniobras ofensivas y defensivas empleadas por otras organizaciones y de los recursos que esto pueden emplear.
+		- Hay varios factores que influyen en la rivalidad existente entre las organizaciones, siendo algunos de ellos:
+			- Aumento del número de competidores, con cierta igualdad en volumen y capacidad
+			- Lento aumento de la demanda
+			- Bajo costo del sujeto para cambiar de servicio
+			- Sentimiento de descontento de otras organizaciones por posición del mercado
+	- ### Potenciales competidores
+		- Los nuevos competidores potenciales que ingresan en el mercado traen consigo una nueva capacidad de producción el deseo de tener un lugar en el mercado
+		- Qué tan seria es la amenaza competitiva de ingreso potencial depende de las barreras al ingreso del conjunto de organizaciones.
+		- Existirá barrera siempre y cuando resulte difícil abrirse paso en el mercado
+		- Existen varios tipos de barreras, entre las que se pueden destacar:
+			- Economías de escala
+			- Incapacidad de tener acceso a conocimiento práctico de la nnueva tecnología y especializados
+			- La existencia de efectos en la curva de aprendizaje y experiencia
+			- Preferencia por el servicio y lealtad del sujeto
+			- Acceso a los canales de distribución
+	- ### Presiones competitivas de productos sustitutos
+		- Con mucha frecuencia las organizaciones de una industria están en estrecha competencia con las de otra
+		- La magnitud de presiones competitivas de los productos sustitudos depende de tres factores
+			- Si hay disponibilidad de sustitutos a un precio atractivo
+			- Qué tan satisfactorios son en términos de calidad, desempeño y otros atributos
+			- Facilidad con que se puede preferir los sustitutos
+	- ### El poder de los proveedores
+		- El que sea una fuerza competitiva fuerte o débil depende de las condiciones de la industria del proveedor y de la importancia del producto que proporcionan
+		- La magnitud de presiones competitivas se asocian a:
+			- Cantidad de proveedores
+			- Disponibilidad de sustitutos
+			- Amenaza de integración hacia atrás por parte de la industria
+			- Importancia del producto para la industria
+	- ### El poder de los compradores
+		- El que sea una fuerza competitiva fuerte o débil depende de la fuerza que tengan en las negociaciones en lo concerniente a precio, calidad, servicio u otros términos de venta
+		- La magnitud de presiones competitivas se asocian a:
+			- Cantidad de compradores
+			- Costo de cambio de compradores
+			- Amenaza de integración hacia atrás por parte de los compradores
+			- Manejo de información
+- ## Implicación estratégica de las 5 fuerzas y complementos
+  collapsed:: true
+	- La situación más competitiva ocurre cuando las 5 fuerzas implican condiciones de rendimiento muy bajos, incluso negativos
+	- Cuando las fuerzas competitivas no son poderosas, la estructura del conjunto de organizaciones es atractiva, es decir, rendimientos superiores
+	- Para cumplir las promesas de valor con éxito se deben idear estrategias que:
+		- Permitan a la organización interactuar con éxito con las 5 fuerzas y complementos
+		- Influyan en las presiones del entorno para cambiar en dirección favorables
+		- Creen una posición de ventaja poderosa y segura en el cumplimiento de las promesas de valor
+- ## "Efecto de la Evolución de la Industria sobre las Fuerzas de Porter"
+  collapsed:: true
+	- La industria (conjunto de organizaciones) atraviesa por una serie de etapas
+	- La solidez y naturaleza de las fuerzas competitivas de Porter cambia a medida que evoluciona la industria
