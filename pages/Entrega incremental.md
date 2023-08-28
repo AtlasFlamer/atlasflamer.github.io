@@ -5,7 +5,6 @@
 	- El proceso mantiene los beneficios del desarrollo incremental en cuanto a que debe ser relativamente sencillo incorporar cambios al sistema.
 	- Puesto que primero se entregan los servicios de mayor prioridad y luego se integran los incrementos, los servicios de sistema más importantes reciben mayores pruebas.
 - Esto significa que los clientes tienen menos probabilidad de encontrar fallas de software en las partes más significativas del sistema.
-  id:: 65dd82ae-e0bf-42b9-914f-f17ed9ab7bb0
 - Sin embargo, existen **problemas con la entrega incremental**:
 	- La mayoría de los sistemas **requieren de una serie de recursos que se utilizan para diferentes partes del sistema**. Dado que los requerimientos no están definidos con detalle sino hasta que se implementa un incremento, resulta difícil identificar recursos comunes que necesiten todos los incrementos.
 	- Asimismo, **el desarrollo iterativo resulta complicado cuando se diseña un sistema de reemplazo**. Los usuarios requieren de toda la funcionalidad del sistema antiguo, ya que es común que no deseen experimentar con un nuevo sistema incompleto. Por lo tanto, es difícil conseguir retroalimentación útil del cliente.

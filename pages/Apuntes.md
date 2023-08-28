@@ -4,4 +4,3 @@
 - ## [[Modelamiento de software]]
 - ## Más apuntes
 	- https://cykrr.notion.site
-	-
