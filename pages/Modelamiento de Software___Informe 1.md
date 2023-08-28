@@ -1,0 +1,54 @@
+## Introducción
+- En este informe, se presenta una propuesta de implementación de un sistema de Aula Virtual diseñado para su integración en un colegio. La propuesta se centra en la automatización de la administración de cursos, asignaturas y paralelos, así como en la optimización del proceso educativo a través de la reutilización de contenido. Se aprovecha la naturaleza estable del contenido de las asignaturas, que experimenta cambios mínimos de un año a otro.
+- La idea central de este proyecto es la creación de un sistema de Aula Virtual con funcionalidades específicas para automatizar la creación y asignación de cursos en un entorno educativo. El diseño del sistema se basa en la estructura común que todos los colegios siguen, donde se identifican cursos, paralelos y asignaturas como elementos clave.
+- Los cursos funcionan como niveles educativos compartidos por diversos paralelos. Esto significa que podría haber varios paralelos para un mismo curso. Cada paralelo agrupa a un conjunto particular de estudiantes.
+- El sistema propuesto permite a la institución mantener una base de conocimiento general, que puede ser aprovechada por los paralelos que completen un nivel y sean promovidos al siguiente. Esta continuidad en el acceso a los contenidos del siguiente nivel facilita la planificación y administración de las asignaturas.
+- En última instancia, la mayor ventaja de esta propuesta es que el colegio puede utilizar el mismo contenido educativo para todos los paralelos que pasen por un curso específico, eliminando la necesidad de crear nuevo material repetidamente para cada paralelo y curso.
+- Con esta implementación, se busca mejorar la gestión educativa al reducir la duplicación de esfuerzos y recursos, mientras se promueve una experiencia de aprendizaje coherente y de alta calidad para todos los estudiantes involucrados.
+- ## Objetivos
+- El proyecto tiene como objetivo principal proporcionar herramientas que permitan la publicación, manipulación y visualización de una base de conocimiento compartida, gestionada por la institución educativa, con el fin de maximizar la labor de los docentes y mejorar la experiencia de enseñanza y aprendizaje.
+- ### Objetivos generales
+- El principal objetivo de este proyecto es mejorar la experiencia educativa mediante la implementación de un sistema de Aula Virtual que automatice la administración de cursos, asignaturas y paralelos. Se 
+  busca agilizar los procesos educativos, reducir la carga administrativa y proporcionar a profesores y estudiantes una plataforma eficaz y coherente para la enseñanza y el aprendizaje en línea.
+- ### Objetivos específicos
+- ### Objetivos Específicos
+- **Sistema de Administración de Paralelos:** Desarrollar un sistema de administración que permita la creación, modificación y eliminación de paralelos de manera eficiente, manteniendo coherencia con la estructura de cursos y niveles.
+- **Envío de Notificaciones:** Implementar un sistema de notificaciones que permita a profesores y estudiantes recibir comunicaciones importantes sobre horarios, eventos y cambios en el contenido de forma oportuna.
+- **Creación de Eventos en el Calendario:** Incorporar la funcionalidad de calendario en el sistema, permitiendo a los profesores programar eventos, fechas de exámenes y entregas de tareas, facilitando la gestión del tiempo para estudiantes y docentes.
+- **Sistema de Visualización de Contenido:** Diseñar un sistema de acceso y visualización de contenido educativo, permitiendo a los estudiantes acceder a materiales, documentos y recursos relacionados con sus asignaturas de manera ordenada y fácil de usar.
+- **Calendario y Horario Personalizado:** Desarrollar un sistema de calendario y horario personalizado para cada estudiante, que muestre de manera clara las fechas y horarios de clases, actividades y eventos relacionados con sus cursos.
+- **Recepción de Notificaciones en Calendario y Horario:** Integrar las notificaciones en el calendario y horario personalizado de los estudiantes y profesores, para que estén informados de manera automática sobre eventos relevantes.
+- **Sistema de Autenticación Seguro:** Establecer un sistema de autenticación sólido que garantice la seguridad de los datos y el acceso exclusivo a usuarios autorizados.
+- **Base de Datos Local y Sincronización con Sistema Externo:** Implementar una base de datos local para almacenar información relevante del sistema de Aula Virtual y asegurar la sincronización continua con la base de datos externa del colegio.
+- **Creación Automática de Cursos según Información Externa:** Diseñar un mecanismo que permita la creación automática de cursos y paralelos en base a la información provista por el sistema externo, garantizando la coherencia entre ambos sistemas.
+- **Asignación Automática de Cursos a Ramo Anualmente:** Desarrollar una funcionalidad que asigne automáticamente a cada estudiante los cursos correspondientes al nuevo ciclo académico, agilizando el proceso de matriculación.
+- **Asignación Manual/Asistida de Profesores a Paralelos:** Incorporar un sistema que permita a los administradores o coordinadores asignar manualmente o asistir en la asignación de profesores a los distintos paralelos, considerando las necesidades académicas.
+- ## Puntos clave
+- ### Explotación de la estructura de cursos y paralelos
+- El sistema se desarrolla con la intención de modelar y fusionar estrechamente la estructura característica de los colegios. Esto se realiza con el propósito de automatizar de manera efectiva la gestión del contenido de las aulas virtuales y simplificar los procesos administrativos relacionados.
+- ### Base de conocimiento general
+- La propuesta incluye el mantenimiento de una base de conocimiento general, compartida por los diversos paralelos pertenecientes a un mismo nivel educativo. Esta base de conocimiento se convierte en un recurso compartido y accesible para todos los estudiantes y docentes involucrados.
+- ### Reutilización de contenido
+- Uno de los beneficios destacados del enfoque propuesto radica en que el colegio no necesitará generar nuevo material educativo en cada ciclo lectivo. En su lugar, podrá emplear y ajustar el mismo contenido didáctico para los futuros paralelos que cursen las asignaturas presentes en cada nivel educativo.
+- ### Eficiencia en la gestión
+- La automatización de la creación y asignación de cursos, junto con la reutilización de contenido, se orienta a mejorar la eficiencia de la gestión educativa en su conjunto. En última instancia, esta implementación tiene el potencial de disminuir la carga de trabajo asociada a la creación de material educativo repetitivo.
+- ## Creación de cursos y conexión con base de datos externa
+- La implementación del sistema de Aula Virtual presupone la existencia de una base de datos interna dentro del colegio, la cual se utilizará para gestionar información relativa a alumnos y profesores. Esta base de datos centralizada se encargará de administrar aspectos como las matrículas de los alumnos y los contratos de los profesores, entre otros.
+- Para facilitar la administración de la base de datos, se desarrollará una interfaz accesible para el administrador. A través de esta interfaz, el administrador tendrá la capacidad de visualizar y manipular la información proporcionada por el sistema externo. Una de las funcionalidades clave de esta interfaz será la administración de los ramos o asignaturas presentes en el sistema.
+- ## Objetivos del proyecto
+- **Objetivos generales:**
+- Desarrollar un sistema de Aula Virtual que automatice la administración de cursos, paralelos y asignaturas en un colegio.
+- Optimizar la gestión educativa a través de la reutilización de contenido y la automatización de procesos.
+- **Objetivos específicos:**
+- Crear una interfaz amigable para el administrador, permitiéndole acceder y gestionar la base de datos del colegio.
+- Implementar un proceso de creación, modificación y eliminación de asignaturas en el sistema, manteniendo coherencia con la estructura educativa.
+- Establecer una conexión fluida con la base de datos externa del establecimiento para obtener información actualizada sobre alumnos y profesores.
+- Desarrollar un sistema que permita la creación y asignación automática de cursos y paralelos según las características definidas por la institución.
+- Garantizar la accesibilidad y usabilidad del sistema por parte de profesores y estudiantes, proporcionando una experiencia de aprendizaje en línea efectiva.
+- ## Sistema a modelar
+- **Definición del problema:**
+  La necesidad de optimizar la gestión de cursos y paralelos en el colegio, reducir la duplicación de esfuerzos en la creación de contenido educativo y mejorar la experiencia educativa en línea.
+- **Descripción general:**
+  El sistema de Aula Virtual a desarrollar permitirá la automatización de la creación y asignación de cursos en función de la estructura educativa del colegio. Se facilitará la conexión con una base de datos externa para obtener información actualizada sobre alumnos y profesores, lo que garantizará la precisión de los datos del sistema.
+- **Consideraciones adicionales:**
+  Se tomarán en cuenta aspectos de seguridad de la información y se buscará garantizar la privacidad de los datos de alumnos y profesores. Además, se implementarán herramientas de seguimiento del progreso y evaluación de los estudiantes para mantener un monitoreo constante de su rendimiento.
