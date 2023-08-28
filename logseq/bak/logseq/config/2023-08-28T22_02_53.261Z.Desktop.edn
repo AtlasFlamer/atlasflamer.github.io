@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Contents"]
+ :favorites ["apuntes" "Modelamiento de software" "Ciencia y Tecnología" "Redes de computadores" "Historia de las relaciones internacionales" "Contents"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -412,5 +412,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? false, :builtin-pages? false, :excluded-pages? true, :orphan-pages? true}
- :ui/show-brackets? false}
+ :graph/settings {:journal? false, :builtin-pages? false, :excluded-pages? false, :orphan-pages? true}
+ :ui/show-brackets? false
+ :publishing/all-pages-public? true}
