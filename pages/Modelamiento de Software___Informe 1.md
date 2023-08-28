@@ -52,3 +52,4 @@
   El sistema de Aula Virtual a desarrollar permitirá la automatización de la creación y asignación de cursos en función de la estructura educativa del colegio. Se facilitará la conexión con una base de datos externa para obtener información actualizada sobre alumnos y profesores, lo que garantizará la precisión de los datos del sistema.
 - **Consideraciones adicionales:**
   Se tomarán en cuenta aspectos de seguridad de la información y se buscará garantizar la privacidad de los datos de alumnos y profesores. Además, se implementarán herramientas de seguimiento del progreso y evaluación de los estudiantes para mantener un monitoreo constante de su rendimiento.
+-
