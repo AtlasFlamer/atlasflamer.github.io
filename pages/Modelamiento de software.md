@@ -1,7 +1,7 @@
 ## [[Procesos de Software]]
 - ## [[Desarollo rápido de Software]]
-- [[Modelamiento de Software/Informe 1]]
-- 5+-2
+- [[Modelamiento de Software/Informe 2]]
+- 6+-2
 - ### Resumen UML
 	- Principales herramientas
 	- Diagramas que nos interesan
