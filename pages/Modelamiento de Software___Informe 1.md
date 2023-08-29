@@ -1,4 +1,6 @@
-## Introducción
+public:: true
+
+- ## Introducción
 - En este informe, se presenta una propuesta de implementación de un sistema de Aula Virtual diseñado para su integración en un colegio. La propuesta se centra en la automatización de la administración de cursos, asignaturas y paralelos, así como en la optimización del proceso educativo a través de la reutilización de contenido. Se aprovecha la naturaleza estable del contenido de las asignaturas, que experimenta cambios mínimos de un año a otro.
 - La idea central de este proyecto es la creación de un sistema de Aula Virtual con funcionalidades específicas para automatizar la creación y asignación de cursos en un entorno educativo. El diseño del sistema se basa en la estructura común que todos los colegios siguen, donde se identifican cursos, paralelos y asignaturas como elementos clave.
 - Los cursos funcionan como niveles educativos compartidos por diversos paralelos. Esto significa que podría haber varios paralelos para un mismo curso. Cada paralelo agrupa a un conjunto particular de estudiantes.
@@ -6,10 +8,9 @@
 - En última instancia, la mayor ventaja de esta propuesta es que el colegio puede utilizar el mismo contenido educativo para todos los paralelos que pasen por un curso específico, eliminando la necesidad de crear nuevo material repetidamente para cada paralelo y curso.
 - Con esta implementación, se busca mejorar la gestión educativa al reducir la duplicación de esfuerzos y recursos, mientras se promueve una experiencia de aprendizaje coherente y de alta calidad para todos los estudiantes involucrados.
 - ## Objetivos
-- El proyecto tiene como objetivo principal proporcionar herramientas que permitan la publicación, manipulación y visualización de una base de conocimiento compartida, gestionada por la institución educativa, con el fin de maximizar la labor de los docentes y mejorar la experiencia de enseñanza y aprendizaje.
+- El proyecto tiene como objetivo principal proporcionar herramientas que permitan la publicación, manipulación y visualización de una base de conocimiento compartida, gestionada por la institución educativa, con el fin de optimizar la labor de los docentes y mejorar la experiencia de enseñanza y aprendizaje.
 - ### Objetivos generales
-- El principal objetivo de este proyecto es mejorar la experiencia educativa mediante la implementación de un sistema de Aula Virtual que automatice la administración de cursos, asignaturas y paralelos. Se 
-  busca agilizar los procesos educativos, reducir la carga administrativa y proporcionar a profesores y estudiantes una plataforma eficaz y coherente para la enseñanza y el aprendizaje en línea.
+- El principal objetivo de este proyecto es mejorar la experiencia educativa mediante la implementación de un sistema de Aula Virtual que automatice la administración de cursos, asignaturas y paralelos. Se busca agilizar los procesos educativos, reducir la carga administrativa y proporcionar a profesores y estudiantes una plataforma eficaz y coherente para la enseñanza y el aprendizaje en línea.
 - ### Objetivos específicos
 - ### Objetivos Específicos
 - **Sistema de Administración de Paralelos:** Desarrollar un sistema de administración que permita la creación, modificación y eliminación de paralelos de manera eficiente, manteniendo coherencia con la estructura de cursos y niveles.
