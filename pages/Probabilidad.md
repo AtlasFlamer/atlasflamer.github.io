@@ -1,0 +1,35 @@
+- Mecanismo con que podemos estudiar las ocurrencias aleatorias d e un fenómeno
+- Necesitamos poder tomar decisiones basadas en la información contenida en una muestra aleatoria
+- ## Ejemplo
+	- Moneda lanzada al aire. No se sabe como caerá la moneda
+- ## Interpretación
+- ### Frecuentista
+	- Frecuencia relativa de un evento repetido infinitas veces
+	- Esperamos que la moneda caiga la mitad de las veces cara.
+- ### Bayesiana
+	- Útil cuando un experimento no se puede repetir varias veces.
+	- Riesgo de una acción en el mercado
+	- Reacción de un paciente a un fármaco determinado
+	- #### Ejemplo
+		- Probabilidad de que un paciente tenga covid
+- ## Recordar
+- ### Probabilidades
+- Todo dato es generado por una ley (desconocida). Proceso que genera datos. Dentro de un futuro se busca poder inferir propiedades de la población a través de la muestra
+- ## Espacio muestral $\Omega$
+- Conjunto de todos los posibles resultados de un experimento aleatorio.
+	- Ejemplos:
+		- Un dado [1,2,3,4,5,6]
+		- Una moneda [c, s]
+- ## Eventos
+	- ### Evento
+	- Subconjunto $A \subseteq \Omega$ del espacio muestral donde al final podemos obervar si el resultado $\omega \in \Omega$ está contenido en $A$
+	- ${\omega} \in \Omega$ evento simple o elemental
+	- Más de un elemento: Evento compuesto
+	- $\Omega$ Evento seguro
+	- ### Ejemplo
+	- Observar un número par al lanzar un dado
+	- $A = \{2, 54, 6\} \subseteq \Omega = \{1, 2, 3, 4, 5, 6\}$
+	- ${2, 4, 6}$
+	- ${3,4,5,6}$
+	-
+	-

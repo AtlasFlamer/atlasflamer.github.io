@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Modelamiento de software" "Ciencia y Tecnología" "Redes de computadores" "Historia de las relaciones internacionales" "Contents"]
+ :favorites ["Estadística Computacional" "Administración de empresas" "Modelamiento de software" "Ciencia y Tecnología" "Redes de computadores" "Historia de las relaciones internacionales" "Contents"]
 
  ;; Set flashcards interval.
  ;; Expected value:

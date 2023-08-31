@@ -43,4 +43,38 @@ public:: true
 	- Rastreo de paquetes
 - **UDP**:
 	- Mensajes
+- ## Terminología de transmisión
+- ### Simplex
+- Señales que son transmitidas en una sola dirección
+- Una estación es la que transmite y la otra es la que recibe
+- ### Half Duplex
+- Ambas estaciones transmiten, pero una a la vez
+- ### Full Duplex
+- Ambas estaciones pueden transmitir a la vez
+- Las señales se mueven por el medio en ambas direcciones a la vez
+- ## Onda sinusoidal
+- Es la función periódica fundamental
+- Puede ser representada por tres parámetros
+- ### Amplitud máxima $(A)$
+- Valor o potencia máxima de la señal en el tiempo
+- Típicamente medida en volts
+- ### Frecuencia $(f)$
+- Intervalo en el que la señal se repite
+- Hertz $(Hz)$ o ciclos por segundo
+- El Periodo $(T)$ es la cantidad de tiempo para una repetición
+- $$T = \frac 1 f$$
+- ### Fase $(\Phi)$
+- Posición relativa en el tiempo en una sola onda periódica
+- ## Longitud de onda $(\lambda)$
+- ### Conceptos del dominio de la frecuencia
+- Las señales están hechas de múltiples frecuencias
+- Los componentes son ondas sinusoidales
+- El análisis de Fourier puede mostrar que cualquier señal está hecha de componentes a varias frecuencias, en las que cada componente es una sinusoidal
+- Puede graficar funciones de frecuencia del dominio
+- ## Espectro y bando de ancha
+- Espectro: Frecuencias que están contenidas en una señal
+-
+- Existe una relación directa entre la velocidad de transmisión de datos y el ancho de banda
+- ## Transmisión de datos análoga y digital
+- ## Datos digitales
 -

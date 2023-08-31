@@ -1,0 +1,17 @@
+# Introducción
+- Se establecerá una empresa especializada en soluciones tecnológicas para el ámbito de la salud, con un enfoque en optimizar la gestión y operaciones de centros médicos. Nuestro propósito es abordar las necesidades específicas de clínicas y consultorios de mediana y pequeña envergadura, que aún carecen de herramientas tecnológicas avanzadas. A través de la implementación de sistemas automatizados, buscaremos modernizar la administración de citas, recordatorios y registros médicos. Al brindar una solución que mejore la eficiencia de estas tareas, nuestra empresa contribuirá a elevar la calidad de atención al paciente y a potenciar la eficacia de los profesionales de la salud.
+- ## Gestión
+- ### Visión
+	- Una de las áreas que por su naturaleza cuenta con un gran número de interacciones con el usuario es el sector de la salud. Si bien dentro de Chile las grandes clínicas cuentan hoy en día con facilidades tecnológicas para sus pacientes, dentro de las cuales facilitan tareas como el agendamiento de horas para consulta y exámenes, recordatorios para cada uno de estas y una plataforma para consulta de resultados, estas facilidades a día de hoy no se encuentran masivamente en consultas médicas locales de mediana y pequeña envergadura, lo cual genera una clara desventaja en términos de administración para estos establecimientos.
+- Una de las áreas que por su naturaleza cuenta con un gran número de interacciones con el usuario es el sector de la salud. Si bien dentro de Chile las grandes clínicas cuentan hoy en día con facilidades tecnológicas para sus pacientes, dentro de las cuales facilitan tareas como el agendamiento de horas para consulta y exámenes, recordatorios para cada uno de estas y una plataforma para consulta de resultados, estas facilidades a día de hoy no se encuentran masivamente en consultas médicas locales de mediana y pequeña envergadura, lo cual genera una clara desventaja en términos de administración para estos establecimientos.
+- En un mundo actualmente tecnológico y familiarizado con las tecnologías de la información y la comunicación (TIC), todavía existen servicios y rubros que no proporcionan ni tienen integradas estas tecnologías que logran mejorar considerablemente los tiempos y la calidad de la atención, otorgándole un valor agregado a los distintas áreas comerciales que hacen utilización de las herramientas anteriormente nombradas.
+- ### Misión
+- Se busca plantear y desarrollar sistemas de software que tengan como objetivo automatizar las tareas básicas de atención y administración de pacientes en centros médicos.
+- ### Diagnóstico
+- En la actualidad aún existen infinidad de servicios y rubros que no proporcionan o integran tecnologías de la información y la comunicación (TIC). La misión de la empresa es mejorar considerablemente los tiempos y la calidad de la atención en el sector de la salud, con el fin de otorgarle un valor agregado al servicio otorgado por el sector de la salud.
+- ### Estrategias
+- ### Objetivos
+- El principal objetivo  de este proyecto es desarrollar un software de gestión para centros médicos que facilite y optimice las interacciones entre pacientes y médicos. Se busca centralizar y simplificar diversas tareas como la gestión de citas, revisión de pruebas, envío de recordatorios, programación de citas y revisión de registros médicos. Hacer que estos procesos sean más eficientes debería mejorar la calidad de la atención al paciente y optimizar el tiempo de los médicos.
+-
+-
+-
