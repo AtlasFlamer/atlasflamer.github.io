@@ -1,4 +1,7 @@
-- El documento habla sobre la historia y evolución de Ethernet, una tecnología de redes digitales locales. Comienza con su creación en el Centro de Investigación de Palo Alto de Xerox hace unos 50 años. Se menciona cómo Ethernet ha resistido el paso del tiempo, con mejoras que permitieron tasas de transferencia de datos de 100Mbps, 1Gbps y luego 100Gbps. También se discute la especificación de Ethernet, que es asincrónica y opera con su propio reloj de datos autónomo. Además, se menciona la decisión de Digital, Xerox e Intel de crear un estándar abierto para la tecnología Ethernet de 10Mbps, lo que permitió a muchos fabricantes construir productos interoperables. Finalmente, se describe cómo se instaló y operó Ethernet, utilizando un cable coaxial de 75 ohmios que se desenrollaba alrededor del entorno de la oficina.
+- El documento habla sobre la historia y evolución de Ethernet, una tecnología de redes digitales locales. Comienza con su creación en el Centro de Investigación de Palo Alto de Xerox hace unos 50 años. Se 
+  menciona cómo Ethernet ha resistido el paso del tiempo, con mejoras que permitieron tasas de transferencia de datos de 100Mbps, 1Gbps y luego 100Gbps. También se discute la especificación de Ethernet, que es 
+  asincrónica y opera con su propio reloj de datos autónomo. Además, se menciona la decisión de Digital, Xerox e Intel de crear un estándar abierto para la tecnología Ethernet de 10Mbps, lo que permitió a muchos 
+  fabricantes construir productos interoperables. Finalmente, se describe cómo se instaló y operó Ethernet, utilizando un cable coaxial de 75 ohmios que se desenrollaba alrededor del entorno de la oficina.
 - ## Temas principales
 - Creación de Ethernet en el Centro de Investigación de Palo Alto de Xerox hace 50 años.
 - La resistencia y evolución de Ethernet a lo largo del tiempo, con mejoras en las tasas de transferencia de datos.
@@ -47,27 +50,37 @@
 - Se introducen los hubs de conmutación, permitiendo un recorrido de par trenzado de 100m desde el punto del hub hasta la estación.
 - ### Hub de conmutación (switch)
 - Un hub de conmutación, también conocido como switch o conmutador, es un dispositivo de red que se utiliza para conectar múltiples dispositivos  en una red. Funciona recibiendo una señal de un dispositivo conectado y  transmitiéndola solo al dispositivo al que está destinada.
-- A diferencia de un hub tradicional, que transmite la señal a todos los dispositivos conectados, un switch es más inteligente y puede dirigir la señal solo al dispositivo correcto. Esto mejora la eficiencia
-  de la red y reduce el tráfico, ya que las señales no se envían innecesariamente a todos los dispositivos.
+- A diferencia de un hub tradicional, que transmite la señal a todos los dispositivos conectados, un switch es más inteligente y puede dirigir la señal solo al dispositivo correcto. Esto mejora la eficiencia de la red y reduce el tráfico, ya que las señales no se envían innecesariamente a todos los dispositivos.
 - Los switches son una parte esencial de muchas redes ya que permiten la comunicación entre dispositivos, como computadoras, impresoras, servidores, entre otros, dentro de una red local (LAN).
-- En un switch de red, cada puerto tiene su propio dominio de colisión. Esto significa que cada dispositivo conectado al switch puede transmitir simultáneamente sin riesgo de colisiones, lo que mejora la eficiencia 
-  de la red.
+- En un switch de red, cada puerto tiene su propio dominio de colisión. Esto significa que cada dispositivo conectado al switch puede transmitir simultáneamente sin riesgo de colisiones, lo que mejora la eficiencia de la red.
+- ### Bridges
+- Primer real cambio al concepto real de Ethernet
+- Los puentes no pasan las colisiones
+- Los puentes:
+	- Toman los Ethernet frames de un dominio de colisión
+	- Inspeccionan la dirección MAC de destino
+	- Retransmiten el Ethernet frame al otro dominio de colisión si la MAC es conocida por el otro dominio
+- Son dispositivos transparentes:
+	- Cuando las dos estaciones se comunican a través de un puente no hay forma de que alguna estación descubra que hay uno o más puentes interviniendo.
+	- El formato del paquete no es alterado por el puente
+	- El puente pasa todos los paquetes de broadcast, así como los paquetes unicast.
+- **La real desventaja**: Aumento de latencia
+	- Un puente reensambla el paquete antes de enviárselo a la otra LAN
+	- Siempre habrá un mínimo de latencia en el tamaño del paquete en cualquiera de las dos estaciones
+	- Las preocupaciones acerca del aumento de la latencia se encuentra en grandres redes LAN lleva al interesante concepto de "early switching".
 -
 - ## Fair Sharing
   id:: 64f479c2-c83e-4aa8-be2b-291d5472595c
 - Principio de diseño que asegura que todos los usuarios o dispositivos tengan un acceso equitativo a los recursos de la red. Esto puede ser especialmente relevante en situaciones donde los recursos son limitados y/o hay una gran demanda de ellos.
-- Por ejemplo, en una red Ethernet, el algoritmo de retroceso utilizado después de una colisión es un ejemplo de "Fair Sharing". Cuando ocurre una colisión (es decir, dos dispositivos intentan enviar un paquete al 
-  mismo tiempo), cada dispositivo "retrocede" y espera un período de tiempo aleatorio antes de intentar retransmitir el paquete. Este algoritmo asegura que todos los dispositivos en la red tengan una 
+- Por ejemplo, en una red Ethernet, el algoritmo de retroceso utilizado después de una colisión es un ejemplo de "Fair Sharing". Cuando ocurre una colisión (es decir, dos dispositivos intentan enviar un paquete al mismo tiempo), cada dispositivo "retrocede" y espera un período de tiempo aleatorio antes de intentar retransmitir el paquete. Este algoritmo asegura que todos los dispositivos en la red tengan una 
   oportunidad justa de transmitir sus paquetes, evitando que cualquier dispositivo monopolice la red.
 - Es importante destacar que el "Fair Sharing" no necesariamente significa que todos los usuarios o dispositivos obtengan la misma cantidad de recursos de la red. En cambio, significa que todos tienen una oportunidad equitativa de acceder a esos recursos. En algunas redes, puede haber políticas de calidad de servicio (QoS) que asignen más recursos a ciertos tipos de tráfico o a ciertos usuarios. Sin embargo, incluso en estos casos, el principio de "Fair Sharing" todavía se aplica en el sentido de que estas políticas deben ser transparentes y 
   aplicarse de manera justa.
 - ## Network Jitter
   id:: 64f479c5-d9de-4454-87ce-a64fadfa103e
 - Variación en el tiempo de llegada de los paquetes de datos en una red. En otras palabras, es la inconsistencia en la latencia de la red. En una red perfecta, los paquetes de datos llegarían exactamente cuando 
-  se espera que lo hagan. Sin embargo, en el mundo real, las cosas no siempre suceden de manera perfecta y los paquetes de datos pueden llegar antes o después de lo esperado. Esta variación en el tiempo de llegada 
-  se conoce como jitter.
-- El jitter puede ser causado por una variedad de factores, incluyendo la congestión de la red, la falta de ancho de banda y la mala calidad de la conexión. Puede tener un impacto significativo en la calidad de las 
-  llamadas de voz y video, así como en la transmisión de datos en tiempo real.
+  se espera que lo hagan. Sin embargo, en el mundo real, las cosas no siempre suceden de manera perfecta y los paquetes de datos pueden llegar antes o después de lo esperado. Esta variación en el tiempo de llegadase conoce como jitter.
+- El jitter puede ser causado por una variedad de factores, incluyendo la congestión de la red, la falta de ancho de banda y la mala calidad de la conexión. Puede tener un impacto significativo en la calidad de las llamadas de voz y video, así como en la transmisión de datos en tiempo real.
 - ## Ethernet Basic Framing
 - Refiere a una estructura básica de un paquete de datos en una red Ethernet. Un marco Ethernet típico incluye los siguientes componentes
 - **Preamble**: Secuencia de bits que indica el comienzo de un margo. Eso permite a los dispositivos en la red sincronizarse y prepararse para recibir el resto del marco
@@ -85,4 +98,5 @@
   para verificar que el marco no se ha corrompido durante la transmisión.
 - **End of Frame Marker**: Este es un indicador que señala el final del marco.
 - Es importante tener en cuenta que en una conexión de línea serial punto a punto, no hay necesidad de incluir direcciones en el marco, ya que solo hay un dispositivo posible al que se puede enviar el marco. Sin embargo, la estructura exacta del marco puede variar dependiendo del protocolo específico que se esté utilizando.
--
+- ## Early switching
+- El early switching en networking se refiere a una técnica utilizada en enrutadores y switches para acelerar el reenvío de paquetes de datos. En lugar de esperar a que todo el paquete sea recibido antes de iniciar el reenvío, el early switching examina el encabezado del paquete en busca de información clave, como la dirección de destino, y comienza a reenviarlo antes de que el paquete completo sea recibido. Esto ayuda a reducir la latencia y mejorar el rendimiento de la red.
