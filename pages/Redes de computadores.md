@@ -3,6 +3,8 @@ public:: true
 - ## Linkografía
 - Beej's Guide to Network Programming: https://beej.us/guide/bgnet/html/split/
 - [[Datos y Comunicación entre Computadores]]
+- [[Lectura 50 años Ethernet]]
+-
 - ## Internet Protocol  (IP)
 	- Direcciones de origen y destino con un único formato
 	- Hacer llegar un dato de un punto A a un punto B. Pasando por alguna(s) red(es).

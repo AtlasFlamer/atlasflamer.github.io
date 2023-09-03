@@ -1,0 +1,51 @@
+- El documento habla sobre la historia y evolución de Ethernet, una tecnología de redes digitales locales. Comienza con su creación en el Centro de Investigación de Palo Alto de Xerox hace unos 50 años. Se 
+  menciona cómo Ethernet ha resistido el paso del tiempo, con mejoras que permitieron tasas de transferencia de datos de 100Mbps, 1Gbps y luego 100Gbps. También se discute la especificación de Ethernet, que es 
+  asincrónica y opera con su propio reloj de datos autónomo. Además, se menciona la decisión de Digital, Xerox e Intel de crear un estándar abierto para la tecnología Ethernet de 10Mbps, lo que permitió a muchos 
+  fabricantes construir productos interoperables. Finalmente, se describe cómo se instaló y operó Ethernet, utilizando un cable coaxial de 75 ohmios que se desenrollaba alrededor del entorno de la oficina.
+- ## Temas principales
+- Creación de Ethernet en el Centro de Investigación de Palo Alto de Xerox hace 50 años.
+- La resistencia y evolución de Ethernet a lo largo del tiempo, con mejoras en las tasas de transferencia de datos.
+- La especificación de Ethernet, que es asincrónica y opera con su propio reloj de datos autónomo.
+- La decisión de Digital, Xerox e Intel de crear un estándar abierto para la tecnología Ethernet de 10Mbps.
+- La adopción de este estándar por parte del comité IEEE 802 y la liberación del estándar LAN Ethernet IEEE 802.3.
+- La instalación y operación de Ethernet, utilizando un cable coaxial de 75 ohmios en un entorno de oficina.
+- La forma en que Ethernet permitió a cualquier cliente enviar un paquete directamente a cualquier otro cliente adjunto.
+- ## Concepción
+- Creado hace 50 años en el Centro de Investigación de Palo Alto de Xerox
+- X-Wire
+	- Sistema de red de oficina de bus común de 3 Mbps
+- ### Especificación inicial
+- Transmisión a una velocidad de 2.94 Mbps.
+- No hay acuso de recibo de los paquetes
+- No hay avisos de fallos de red (como la segmentación)
+- No hay un reloj para imponer un tiempo común
+- No hay imposición de ((64f479c2-c83e-4aa8-be2b-291d5472595c))
+-
+- ### Marco de colisión
+- Describe una parte de la red donde los paquetes pueden colisionar entre sí al ser enviados simultáneamente por dos dispositivos diferentes.
+-
+- ## Especificación 10 Mbps
+- Se introducen los hubs de conmutación, permitiendo un recorrido de par trenzado de 100m desde el punto del hub hasta la estación.
+- ### Hub de conmutación (switch)
+- Un hub de conmutación, también conocido como switch o conmutador, es un dispositivo de red que se utiliza para conectar múltiples dispositivos  en una red. Funciona recibiendo una señal de un dispositivo conectado y  transmitiéndola solo al dispositivo al que está destinada.
+- A diferencia de un hub tradicional, que transmite la señal a todos los dispositivos conectados, un switch es más inteligente y puede dirigir la señal solo al dispositivo correcto. Esto mejora la eficiencia
+  de la red y reduce el tráfico, ya que las señales no se envían innecesariamente a todos los dispositivos.
+- Los switches son una parte esencial de muchas redes ya que permiten la comunicación entre dispositivos, como computadoras, impresoras, servidores, entre otros, dentro de una red local (LAN).
+- En un switch de red, cada puerto tiene su propio dominio de colisión. Esto significa que cada dispositivo conectado al switch puede transmitir simultáneamente sin riesgo de colisiones, lo que mejora la eficiencia 
+  de la red.
+-
+- ## Fair Sharing
+  id:: 64f479c2-c83e-4aa8-be2b-291d5472595c
+- Principio de diseño que asegura que todos los usuarios o dispositivos tengan un acceso equitativo a los recursos de la red. Esto puede ser especialmente relevante en situaciones donde los recursos son limitados y/o hay una gran demanda de ellos.
+- Por ejemplo, en una red Ethernet, el algoritmo de retroceso utilizado después de una colisión es un ejemplo de "Fair Sharing". Cuando ocurre una colisión (es decir, dos dispositivos intentan enviar un paquete al 
+  mismo tiempo), cada dispositivo "retrocede" y espera un período de tiempo aleatorio antes de intentar retransmitir el paquete. Este algoritmo asegura que todos los dispositivos en la red tengan una 
+  oportunidad justa de transmitir sus paquetes, evitando que cualquier dispositivo monopolice la red.
+- Es importante destacar que el "Fair Sharing" no necesariamente significa que todos los usuarios o dispositivos obtengan la misma cantidad de recursos de la red. En cambio, significa que todos tienen una oportunidad equitativa de acceder a esos recursos. En algunas redes, puede haber políticas de calidad de servicio (QoS) que asignen más recursos a ciertos tipos de tráfico o a ciertos usuarios. Sin embargo, incluso en estos casos, el principio de "Fair Sharing" todavía se aplica en el sentido de que estas políticas deben ser transparentes y 
+  aplicarse de manera justa.
+- ## Network Jitter
+- Variación en el tiempo de llegada de los paquetes de datos en una red. En otras palabras, es la inconsistencia en la latencia de la red. En una red perfecta, los paquetes de datos llegarían exactamente cuando 
+  se espera que lo hagan. Sin embargo, en el mundo real, las cosas no siempre suceden de manera perfecta y los paquetes de datos pueden llegar antes o después de lo esperado. Esta variación en el tiempo de llegada 
+  se conoce como jitter.
+- El jitter puede ser causado por una variedad de factores, incluyendo la congestión de la red, la falta de ancho de banda y la mala calidad de la conexión. Puede tener un impacto significativo en la calidad de las 
+  llamadas de voz y video, así como en la transmisión de datos en tiempo real.
+-
