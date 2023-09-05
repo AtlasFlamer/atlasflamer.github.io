@@ -1,4 +1,6 @@
 - [[Datos multivariados]]
+- [[Certamen 1]]
+-
 - ## Correlación
 - ### Covarianza
 - Grado de variación de una variable

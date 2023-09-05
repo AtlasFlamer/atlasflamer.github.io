@@ -1,0 +1,5 @@
+- Preguntas conceptuales
+- Comparar variabilidad
+- Con grupo/Sin Grupo
+- Encontrar probabilidad de un evento
+-

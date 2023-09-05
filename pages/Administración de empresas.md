@@ -21,7 +21,7 @@
   
   Una elevada inteligencia emocional no implica aptitud emocional, pero sí un potencial para adquirirla.
 -
-- Vent>ajas comparativas: Hay que convertirlas en ventajas competitivas.
+- Ventajas comparativas: Hay que convertirlas en ventajas competitivas.
 - Ventajas competitivas: Proveen dinero
 - ## Ventajas competitivas de las naciones
 - Ejemplo fruta:

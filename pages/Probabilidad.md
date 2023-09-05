@@ -16,20 +16,36 @@
 - ### Probabilidades
 - Todo dato es generado por una ley (desconocida). Proceso que genera datos. Dentro de un futuro se busca poder inferir propiedades de la población a través de la muestra
 - ## Espacio muestral $\Omega$
+- Experimento aleatorio
+- No se conoce el resultado de un experimento
+- Puede ser infinito
 - Conjunto de todos los posibles resultados de un experimento aleatorio.
 	- Ejemplos:
-		- Un dado [1,2,3,4,5,6]
-		- Una moneda [c, s]
+		- Un dado $\{1,2,3,4,5,6\}$
+		- Una moneda $\{c, s\}$
+		-
 - ## Eventos
 	- ### Evento
+	- Conjunto de resultados
 	- Subconjunto $A \subseteq \Omega$ del espacio muestral donde al final podemos obervar si el resultado $\omega \in \Omega$ está contenido en $A$
-	- ${\omega} \in \Omega$ evento simple o elemental
+	- $\{\omega\} \in \Omega$ evento simple o elemental
 	- Más de un elemento: Evento compuesto
 	- $\Omega$ Evento seguro
 	- ### Ejemplo
 	- Observar un número par al lanzar un dado
 	- $A = \{2, 54, 6\} \subseteq \Omega = \{1, 2, 3, 4, 5, 6\}$
-	- ${2, 4, 6}$
-	- ${3,4,5,6}$
+	- $\{2, 4, 6\}$
+	- $\{3,4,5,6\}$
+- ## Espacio de eventos $\mathbb A$
+- Conjunto de todos los eventos
+- ## Probabilidad
+- Función $P: \mathbb A \rightarrow [0, 1]$ que asocia un número a $A \in \mathbb A$
+- Indica la probabilidad de obtener un resultado $\omega \in A$
+- Axiomas (Kolmogorov)
+	- Si tenemos un evento contenido en el espacio de eventos, entonces la probabilidad de este evento es mayor o igual a 0
+	- $P(\Omega) = 1$
+	- Si $\{A_i\}_{i \in I} = \{ A_1, A_2, ..., A_i, ... \} \subseteq \mathbb A$ es una colección finita o numerable de eventos disjuntos
 	-
-	-
+- Disjunción: Intersección vacía
+-
+-
