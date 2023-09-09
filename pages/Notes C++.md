@@ -1,0 +1,19 @@
+- [[Notes C++/Papers]]
+-
+- # Introducción
+- Notes C++ es un proyecto de código abierto que busca ser una herramienta de visualización de contenido a gran escala de contenido generado por el usuario como lo puede ser notas.
+- Múltiples investigaciones en psicología y en ciencia cognitiva han demostrado que herramientas externas de memoria, tales como cuadernos, calendarios, así como herramientas digitales pueden mejorar la memoria y el desempeño cognitivo. Estas utilidades permiten a los individuos descargar información a sistemas externos, reduciendo efectivamente la carga cognitiva.
+-
+- ## Definición del Problema
+- La toma de notas consiste en el acto de transferir información de nuestra memoria a un medio externo como un cuaderno o un dispositivo electrónico con el propósito de poder recolectar dicha información en otro momento oportuno. Dicha acción nos permite reforzar la memoria, así como mejorar el entendimiento e integrar la información en el conocimiento propio.
+- Uno de los problemas más comunes es la ineficiencia en la organización de las notas. Si no se utilizan técnicas de toma de nota efectivas, como el uso de esquemas, diagramas, resúmenes o etiquetas claras, las notas pueden resultar desordenadas y difíciles de entender al revisarlas más tarde.
+- La dependencia excesiva de notas puede fácilmente convertirse en un problema. Si se confía demasiado en las notas como fuente de información se subestima la necesidad de desarrollar las habilidades de retención y comprensión en el momento presente. Limitando el pensamiento crítico y la capacidad de procesar información.
+-
+- ## Alternativas
+- Existen múltiples soluciones informáticas que buscan acatar esta problemática. Entre estas podemos encontrar Notion, Logseq, Obsidian, entre muchas otras.
+- ---
+- Encontrar el equilibrio adecuado en la longitud de una nota es esencial para asegurar que estas sean efectivas y útiles. Tanto las notas excesivamente largas como un exceso de notas pequeñas pueden ser problemáticas por múltiples razones.
+- Las notas excesivamente largas implican un problema de comprensión, puede ser difícil de comprender debido a la cantidad abrumadora de información en un solo lugar. Buscar información específica en dicha nota puede requerir mucho tiempo (o recursos computacionales). Es fácil perder el foco con una nota larga y por lo general es producto de una comprensión débil de la información y los conceptos claves.
+-
+-
+- # Bibliografía
