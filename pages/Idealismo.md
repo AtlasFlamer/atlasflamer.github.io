@@ -1,0 +1,10 @@
+- Polisémico
+	- Filosofía
+	- !=
+	- Relaciones internacionales
+- En inglés equivalente al término "liberal"
+- Política de inspiración "idealista" (en inglés liberal)
+	- política que se basa en la cooperación cuando los actores deciden construír un proceso de integración.
+	- No es que haya un 100% de realismo/idealismo. Todos los países cooperan con algunos y tienen conflictos con otros
+	- Acuerdo y cooperación
+	-

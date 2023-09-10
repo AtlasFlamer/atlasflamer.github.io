@@ -1,7 +1,6 @@
 - [[Realismo]]
 - [[Neorealismo]]
--
--
+- [[Idealismo]]
 - ## Observaciones
 - En el mundo actual, es importante desarrollar competencias de análisis en el campo de las Relaciones Internacionales o la Historia de las Relaciones Internacionales. Para lograr esto, debemos vincular datos y teoría con el fin de proponer explicaciones sobre los procesos que ocurren en este ámbito. Al hablar de competencias, nos referimos a la capacidad de evaluar y analizar de manera efectiva. Por lo tanto, las evaluaciones asociadas a estas competencias son de gran importancia para medir nuestro progreso y comprensión en este campo.
 - ## Las Relaciones Internacionales en cuanto objeto o área

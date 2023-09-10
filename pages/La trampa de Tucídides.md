@@ -1,3 +1,8 @@
+-
+- Tucídides escribe el primer libro de ciencia política. Retrata el desarrollo de una guerra y la derrota del bando ateniense y preocupado de entender como cuando y por que se toman las decisiones que se toman.
+	- Decision Makers
+	- Crisis y procesos
+-
 - Riesgo de [guerra](https://es.wikipedia.org/wiki/Guerra) que genera el miedo a perder la hegemonía
 - «cuando un poder en ascenso rivaliza con un poder gobernante, como Atenas desafió a Esparta en la antigua Grecia, o como Alemania lo hizo con Gran Bretaña hace un siglo»
 - Teoría que explica la relación entre una potencia hegemónica en declive con otra potencia en acenso. Graham Allison (2015)
