@@ -1,0 +1,65 @@
+- En la doctrina social de la iglesia se plantea que la política tiene que ver con el bien común, que el bien común tiene que ver con la justicia. Eso es una oposición normativa
+- La política más que el bien común y la construcción de la justicia,
+	- la articulación de las relaciones de poder, tiene que ver con la **competencia por el poder.**
+- Es lo que hay.
+- El realismo tiene derivaciones importantes
+	- [[Neorealismo]]
+	-
+- Si el realismo es realmente lo que es, tiene sentido que realicemos un juicio ético de lo que ocurre? o en realidad el único juicio que importa es el juicio de la historia
+	- Si un Decision Maker tomó decisiones exitosas respecto el éxito del país.
+	- e.g. Construir un orden estable
+	-
+- Machiavello. Poder, naturaleza humana y razón de estado.
+- Hobbs, Tucídides
+- Realismo: Derivación de un concepto alemán
+- Bismarck popularizó el concepto Realpolitick (realismo). Hablar de aquello que existe en la realidad y no de lo que nos gustaría que fuese
+- ## En el origen del problema está la naturaleza humana
+	- Hobbs y Machiavello comparten una opinión negativa de la naturaleza humana.
+	- El rasgo más propio de la naturaleza humana es la ambición.
+		- Los hombres siempre quieren más poder más influencia más fortuna más gloria y deben luchar cuando tienen más y cuando lo tienen deben luchar por defenderlo por que otros se lo querrán quitar.
+	- Los discorsis (comentarios sobre la epoca de ...)
+		- Maquiavello plantea que la realidad siempre es conflictiva
+	- Hobbs vivió dos guerras civiles por lo que su preocupación es como se resuelve el problema de la estabilidad política del sistema.
+		- The citizen
+		- Refiriéndose a Aristóteles, dado como un axioma matemático, una obviedad, que los hombres viven juntos porque tienen una naturaleza social.
+		- La única razón por la que los hombres viven juntos es porque esperan obtener algún beneficio de los demás
+		- La ambición como el rasgo predominante de la naturaleza humana, que se acaba solo con la muerte.
+	- Anarquía del sistema: Concepto derivado de Hobbs
+		- Hobbs para justificar la existencia del estado en una situación de crisis (dos guerras civiles en Inglaterra y el ajusticiamiento del rey Carlos)
+		- Modelo explicativo: Qué es lo que ocurre si no existe el estado? Equivalente a lo que ocurre cuando ocurre una guerra civil.
+		- Se define lo que es el estado natural donde no existe el estado
+			- Ley de la selva
+		- La vida como una guerra all4all
+		- Inseguridad absoluta
+		- Los hombres deciden traspasar su soberanía a lo que es el estado, lo que Hobbs plantea como una metáfora bíblica, el leviatán.
+		- La tarea fundamental del estado es siempre producir orden.
+			- Definir normas y tener la capacidad de ejercer su orden (capacidad coactiva)
+- Aunque los estados tienen la capacidad de definir normas y tienen la soberanía como atributo, su capacidad termina con su frontera. Donde hay otro estado que hace cumplir sus normas en su territorio
+-
+- En las relaciones entre estados no existe lo que se denomine como un "super leviatán". No existe nadie por sobre de los estados que sea capas de imponer normas. La situación del sistema es anarquía.
+-
+- Y el derecho internacional? Algunos lo cumplen y algunos se lo saltan
+- e.g. Rusia: No cumple la intangibilidad de la frontera
+- Suerte de anarquía relativa, en la base lo que predomina es la capacidad de imponer desiciones por la fuerza (idea central presente en [[La trampa de Tucídides]] )
+-
+-
+-
+- Hablar de la política como un problema de competencia o articulación de
+-
+-
+- Paradigma más antiguo
+- Modelo de análisis
+- Durante más tiempo ha sido predominante
+- Es originado de la misma naturaleza humana
+- Tucídides. El diálogo de Melos (S V a.C.) [[La trampa de Tucídides]]
+	- El primer realista
+	- Explora el conflicto entre el idealismo y el realismo
+	- **Realismo**: Estilo artístico y literario que busca representar la realidad de forma objetiva.
+	- Plantea un debate entre personajes que defienden posturas idealistas y realistas
+-
+- El diálogo de Melos es una obra de teatro que explora el conflicto entre el idealismo y el realismo. El realismo es un estilo artístico y literario que busca representar la realidad de manera objetiva, sin idealizarla ni embellecerla. En el diálogo, se plantea un debate entre personajes que defienden posturas idealistas y realistas.
+  
+  La relación entre el diálogo de Melos y el realismo radica en que ambos abordan la cuestión de cómo debe representarse la realidad en la literatura y el arte. Los personajes idealistas defienden la idea de que la belleza y la perfección deben estar presentes en todas las representaciones artísticas, mientras que los personajes realistas argumentan que es necesario mostrar la realidad tal y como es, incluso con sus imperfecciones.
+  
+  A través del diálogo, se evidencia la tensión entre el idealismo y el realismo, y se plantea la pregunta de si es posible reconciliar ambos enfoques. En última instancia, la relación entre el diálogo de Melos
+-

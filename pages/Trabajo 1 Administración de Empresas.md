@@ -12,6 +12,24 @@
 - ### Estrategias
 - ### Objetivos
 - El principal objetivo  de este proyecto es desarrollar un software de gestión para centros médicos que facilite y optimice las interacciones entre pacientes y médicos. Se busca centralizar y simplificar diversas tareas como la gestión de citas, revisión de pruebas, envío de recordatorios, programación de citas y revisión de registros médicos. Hacer que estos procesos sean más eficientes debería mejorar la calidad de la atención al paciente y optimizar el tiempo de los médicos.
--
+- ## Actividades de apoyo
+  id:: 64f47224-f5a2-44b3-8078-097c74aa9169
+	- Adquisiciones (insumos, información, etc.)
+		- **Fuerza impulsora:**  La búsqueda de proveedores confiables y eficientes para adquirir insumos clave e información proporcionada por el cliente para desarrollar las soluciones tecnológicas.
+		- **Fuerza opositora:** Problemas de calidad o disponibilidad de insumos y posibles fluctuaciones en los precios del proveedor.
+		- **Fortaleza:** Aumentar la diversidad de proveedores
+		- **Debilidad:** Dependencia de proveedores poco confiables y falta de diversificación de fuentes de suministro.
+	- Desarrollo de tecnología
+		- **Fuerza impulsora:** La inversión en investigación y desarrollo para mejorar y mantener actualizadas las soluciones tecnológicas. Mantenerse a la par de la competencia.
+		- **Fuerza que se opone al cambio:** Limitaciones presupuestarias que pueden restringir la inversión en desarrollo de tecnología y la retención de talento técnico.
+		- **Fortaleza:** La innovación constante permitirá diferenciarse en el mercado y ofrecer valor que aumenta con el tiempo.
+	- Gestión de personar (salud mental, contrataciones, desarrollo, evaluación, desempeño, rotación, etc...)
+		- **Fuerza impulsora:** La creciente conciencia sobre la importancia de la salud mental y el bienestar de los empleados, así como la necesidad de cultivar y desarrollar el talento en un mercado altamente competitivo.
+		- **Fuerza que se opone al cambio:** Dificultad de adaptabilidad a la tecnología por parte de empleados, posibles conflictos internos, o dificultades para encontrar y retener talento calificado.
+		- **Fortaleza:**  Si la empresa tiene una cultura saludable y una fuerza laboral comprometida, puede atraer y retener el talento en la empresa. Reputación positiva con los empleados.
+	- Organización (tamaño, flexibilidad)
+		- **Fuerza impulsora:** La adaptabilidad y flexibilidad de la estructura organizativa para responder rápidamente a las necesidades cambiantes del mercado.
+		- **Fuerza que se opone al cambio:**  Posibles problemas de adaptabilidad al cambio o inercia organizativa en una estructura rígida.
+		- **Fortaleza:**  La agilidad permite a la empresa mantenerse relevante en un entorno en constante evolución.
 -
 -

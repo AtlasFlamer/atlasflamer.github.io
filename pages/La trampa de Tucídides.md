@@ -1,0 +1,24 @@
+- Riesgo de [guerra](https://es.wikipedia.org/wiki/Guerra) que genera el miedo a perder la hegemonía
+- «cuando un poder en ascenso rivaliza con un poder gobernante, como Atenas desafió a Esparta en la antigua Grecia, o como Alemania lo hizo con Gran Bretaña hace un siglo»
+- Teoría que explica la relación entre una potencia hegemónica en declive con otra potencia en acenso. Graham Allison (2015)
+- Analiza el conflicto entre USA y China
+- Tucídides: Historiador Atenensie que combatió en la guerra del Peloponeso (Esparta y Athenas).
+- Esparta:
+	- Potencia hegemónica
+	- Centro del Poloponeso
+	- Potencia continental
+	- Diarquía (dos eyes)
+	- Rasgos:
+		- Conservadores
+		- Aristocráticos
+		- Monárquicos
+		- **Poderío militar**
+			- Vocación y ejército la forma en la que el Espartano se volvía ciudadano
+- Athenas:
+	- Potencia marítima
+	- Desarrollo en las artes, literatura, filosofía
+	- gf
+- Athenas: Potencia en acenso
+- Más de medio siglo
+- Esparta y Athenas: Polis
+-
